@@ -7,9 +7,17 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: end;
+  align-self: center;
 }
 
 @media screen and (max-width: 1280px) {
+  .header {
+    min-width: calc(100% - 48px * 2);
+    margin: 28px 48px 0 48px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
   .header {
     min-width: calc(100% - 48px * 2);
     margin: 28px 48px 0 48px;
