@@ -1,0 +1,15 @@
+.text {
+  margin: 26px 0 0 0;
+  padding: 0;
+  grid-area: paragraph;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #FFFFFF;
+}
+
+.text:first-child {
+  margin: 0;
+}

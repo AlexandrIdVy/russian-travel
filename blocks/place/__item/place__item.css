@@ -1,0 +1,8 @@
+.place__item {
+  margin: 12px 0 0 0;
+  padding: 0;
+}
+
+.place__item:first-child {
+  margin: 0;
+}
