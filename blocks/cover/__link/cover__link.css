@@ -1,15 +1,15 @@
 .cover__link {
-  display: flex;
-  position: relative;
-  flex-direction: column;
-  justify-content: center;
   margin: 0;
   padding: 0;
   width: 100%;
   min-height: 740px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1;
   background-image: url(../../../images/do-baikal.png);
   background-size: cover;
-  color: white;
   text-decoration: none;
 }
 
@@ -23,9 +23,9 @@
   background: #2A2C2F;
   content: '';
   opacity: 0.3;
-  transition: 0.8s;
+  transition: opacity 0.8s ease;
 }
 
-.cover__link::before {
+.cover__link:hover::before {
   opacity: 0.8;
 }
