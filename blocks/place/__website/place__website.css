@@ -1,19 +1,16 @@
 .place__website {
-  margin: 0;
   padding: 0;
   grid-area: website;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 12px;
-  letter-spacing: 2px;
-  color: #AAAAAA;
-  list-style-type: none;
   align-self: end;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
+  .place__website {
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 319px) {
   .place__website {
     margin: 0 16px 0 16px;
   }

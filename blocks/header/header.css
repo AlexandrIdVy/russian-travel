@@ -1,8 +1,5 @@
 .header {
-  margin: 28px 0 0 0;
   padding: 0;
-  min-width: 1184px;
-  height: 52px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -10,28 +7,28 @@
   align-self: center;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 1281px) {
+  .header {
+    min-width: 1184px;
+    margin: 28px 0 0 0;
+  }
+}
+
+@media screen and (min-width: 1023px) {
   .header {
     min-width: calc(100% - 48px * 2);
     margin: 28px 48px 0 48px;
   }
 }
 
-@media screen and (max-width: 1024px) {
-  .header {
-    min-width: calc(100% - 48px * 2);
-    margin: 28px 48px 0 48px;
-  }
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 767px) {
   .header {
     min-width: calc(100% - 24px * 2);
     margin: 28px 24px 0 24px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 319px) {
   .header {
     min-width: calc(100% - 16px * 2);
     margin: 16px 16px 0 16px;

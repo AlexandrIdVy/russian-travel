@@ -1,4 +1,10 @@
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 767px) {
+  .footer__navigation {
+
+  }
+}
+
+@media screen and (min-width: 319px) {
   .footer__navigation {
     display: flex;
     flex-direction: column;
