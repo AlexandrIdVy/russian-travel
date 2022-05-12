@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   width: 100%;
+  min-height: 740px;
   display: flex;
   position: relative;
   flex-direction: column;
@@ -29,25 +30,19 @@
   opacity: 0.8;
 }
 
-@media screen and (min-width: 1279px) {
-  .cover__link {
-    min-height: 740px;
-  }
-}
-
-@media screen and (min-width: 1023px) {
+@media screen and (max-width: 1279px) {
   .cover__link {
     min-height: 640px;
   }
 }
 
-@media screen and (min-width: 767px) {
+@media screen and (max-width: 1023px) {
   .cover__link {
     min-height: 480px;
   }
 }
 
-@media screen and (min-width: 319px) {
+@media screen and (max-width: 320px) {
   .cover__link {
     min-height: 200px;
   }

@@ -4,15 +4,10 @@
   z-index: 1;
   top: 50%;
   left: 50%;
+  transform: translate(-50%, -87%);
 }
 
-@media screen and (min-width: 767px) {
-  .lead__image_position_front  {
-    transform: translate(-50%, -87%);
-  }
-}
-
-@media screen and (min-width: 319px) {
+@media screen and (min-width: 319px) and (max-width: 767px) {
   .lead__image_position_front  {
     transform: translate(-50%, -95%);
   }
