@@ -1,21 +1,51 @@
-# Проект: Путешествие по России
+**[RU](#Путешествия-по-России)** [EN](#Travel-in-Russia)
 
-## Проектная работа 3
+# Путешествия по России
 
----
+<p align="center">
+<img src="https://github.com/AlexandrIdVy/russian-travel/blob/main/images/demo.png">
+</p>
 
-**Landing page (одностраничный сайт)** о путешествиях по России, краткие описания достопримечательностей
-с сылками на ресурсы с полным описанием, картинки с пейзажами и необычными видами.
+## Проектная работа 3 (Яндекс.Практикум)
 
----
+Лэндинг о мотивиции к путешествиям по России, краткие описания и фото достопримечательностей
+с ссылками на ресурсы с полным описанием, а также фото с пейзажами и необычными видами.
 
 **Размещение проекта на GitHub**
 
-* [Ссылка на проект](https://alexandridvy.github.io/russian-travel/)
+* [Путешествия по России](https://alexandridvy.github.io/russian-travel/)
 
 ---
+### Технологии в проекте
 
-Для создания страницы использовалась флексбокс-верстка, grid layout
-применено несколько видов позиционирование элементов.
-На странице имеются анимации, трансформации, неколькой flex и grid блоков.
-Landing выполнен по БЭМ-методологии.
+* БЭМ-методология (код, файловая структура)
+* Flexbox
+* Grid Layout
+* CSS-позиционирование
+* CSS анимации с плавностью переходов
+
+[RU](#Путешествия-по-России) **[EN](#Travel-in-Russia)**
+
+# Travel in Russia
+
+<p align="center">
+<img src="https://github.com/AlexandrIdVy/russian-travel/blob/main/images/demo.png">
+</p>
+
+## Project work 3 (Yandex.Praktikum - additional education courses)
+
+Landing page about motivation to travel in Russia, brief descriptions and photos of attractions
+include links to resources with a full description, photos with landscapes and unusual views.
+
+**Project to GitHub:**
+
+* [Travel in Russia](https://alexandridvy.github.io/russian-travel/)
+
+---
+### Technologies in the project
+
+* BEM methodology (code, file structure)
+* Flexbox
+* Grid Layout
+* CSS positioning elements
+* CSS animations with transitions
