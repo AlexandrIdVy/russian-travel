@@ -3,7 +3,7 @@
 # Путешествия по России
 
 <p align="center">
-<img src="https://github.com/AlexandrIdVy/russian-travel/blob/main/images/demo.png">
+<img src="https://github.com/AlexandrIdVy/russian-travel/blob/main/images/demo.PNG">
 </p>
 
 ## Проектная работа 3 (Яндекс.Практикум)
@@ -29,7 +29,7 @@
 # Travel in Russia
 
 <p align="center">
-<img src="https://github.com/AlexandrIdVy/russian-travel/blob/main/images/demo.png">
+<img src="https://github.com/AlexandrIdVy/russian-travel/blob/main/images/demo.PNG">
 </p>
 
 ## Project work 3 (Yandex.Praktikum - additional education courses)
