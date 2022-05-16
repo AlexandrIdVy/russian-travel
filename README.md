@@ -19,10 +19,12 @@
 ### Технологии в проекте
 
 * БЭМ-методология (код, файловая структура)
+* Аадаптивная верстка (до 320px с помощью медиазапросов)
 * Flexbox
 * Grid Layout
 * CSS-позиционирование
 * CSS анимации с плавностью переходов
+* Локальное подключение шрифта
 
 [RU](#Путешествия-по-России) **[EN](#Travel-in-Russia)**
 
@@ -45,7 +47,9 @@ include links to resources with a full description, photos with landscapes and u
 ### Technologies in the project
 
 * BEM methodology (code, file structure)
+* Adaptive layouts with media queries (up to 320px)
 * Flexbox
 * Grid Layout
 * CSS positioning elements
 * CSS animations with transitions
+* Use local font
